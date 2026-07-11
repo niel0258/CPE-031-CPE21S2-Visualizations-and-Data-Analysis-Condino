@@ -1,7 +1,7 @@
 # CPE0031-REPOSITORY-CONDINO
 <hr>
 
-<h3 align ="center" >This folder holds all of the projects I did for Data Visualizations and Data Analysis</h3>
+<h3 align ="center" >This repository holds all of the code/programs I did for Data Visualizations and Data Analysis</h3>
 <hr>
 
 <p align = "center"><img width="768" height="432" alt="df661b213ee05573007418bcd5cca532" src="https://github.com/user-attachments/assets/cee50aab-5d23-44cc-a3c1-b2422d60b0b4" /><p align = "center">
