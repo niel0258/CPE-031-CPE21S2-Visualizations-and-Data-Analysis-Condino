@@ -17,3 +17,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy-mirror.vercel.app/?username=niel0258&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<hr>
+
+# Thanks for reading !!!
+<p align = "center"><img width="250" height="184" alt="angry-birds-peacox-long-kick-9j121rccr7s6o94n" src="https://github.com/user-attachments/assets/71a37900-1675-4a76-a312-f6e547cf8cf2" /></p>
