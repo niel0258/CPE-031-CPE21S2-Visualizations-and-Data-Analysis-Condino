@@ -8,14 +8,4 @@
 
 # Language used in the projects
 <p align = "center"><a href = "https://www.python.org/downloads/" target="_blank"><img src ="https://github.com/user-attachments/assets/66a46634-1f80-4dea-bb1d-94f60ac091ef"></a>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats-fast.vercel.app/api?username=niel0258&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=niel0258&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=niel0258&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy-mirror.vercel.app/?username=niel0258&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 <hr>
